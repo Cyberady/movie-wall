@@ -60,7 +60,8 @@ export default function Siddhi() {
           default: 4,
           1100: 3,
           700: 2,
-          500: 1,
+          500: 2,
+          0: 2
         }}
         className="my-masonry-grid"
         columnClassName="my-masonry-grid_column"
